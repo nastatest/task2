@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OnlinerSuite" parallel="false">
+    <test name="OnlinerTest">
+        <classes>
+            <class
+                    name="OnlinerTest" />
+        </classes>
+    </test>
+</suite>
